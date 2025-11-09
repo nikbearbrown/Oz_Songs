@@ -1,8 +1,5 @@
 # Oz Songs
 
-# Oz Songs Project README
-
-## Overview
 Over the next year, I'll be creating "Oz Songs" - a video musical adaptation of The Wizard of Oz using a blend of human voices (including my own) and AI-generated art and music. This project reimagines L. Frank Baum's classic series through contemporary musical interpretations while exploring the creative possibilities of human-AI collaboration.
 
 ## Project Goals
