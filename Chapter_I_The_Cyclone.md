@@ -1,5 +1,3 @@
-﻿# Chapter_I_The_Cyclone.md
-
 # Oz Songs: Chapter I - The Cyclone
 
 ## Project Overview
@@ -512,4 +510,5 @@ But she's got Toto, her little friend,
 In a world turned gray, love will always bend.
 When the winds start to howl, and the skies turn dark,
 She holds on tight, keeps faith in her heart.
+
 
