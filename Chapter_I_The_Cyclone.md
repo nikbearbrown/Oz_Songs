@@ -166,81 +166,82 @@ Follow the development of this multimedia adaptation at [Musinique.com/oz-songs]
 
 # Character prompts:
 
-Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish supermodel, from Kansas, with dark hair in braids and wearing a blue-and-white sleeveless gingham dress, mehndi design on her left hand, striking hazel eyes, red leather TimberLand Boots
- 
-Toto is a small black Cairn Terrier with shaggy fur, bright eyes
- 
-Toto is a small black Cairn Terrier with shaggy fur, bright eyes, and a size compact enough to fit in Dorothy's basket
- 
- 
-## Character Sheet Prompts Dorothy:
- 
-Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, standing with arms crossed 
-Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, Toto is a small black Cairn Terrier with shaggy fur, walking confidently with basket in hand with Toto
-Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, looking over shoulder with curious expression
-Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, crouching next to her pet Toto
-Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, pointing toward the horizon/yellow brick road
-Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, hands on hips
-Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, skipping joyfully
-Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, sitting on fence/log, contemplative
-Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, shielding eyes, looking into distance
-Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, twirling dress in spin
-Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, climbing over fallen tree/obstacle
-Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, offering apple/food to companion
-Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, reading map/directions, confused
-Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, surprised reaction pose, hands to face
-Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, dancing with arms outstretched
-Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, confrontational stance facing witch/antagonist
-Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, hiding/peeking from behind tree/wall
-Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, helping friend up from ground
-Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, examining magical object curiously
-Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, running pose, mid-stride
-Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, picking wildflowers/poppies
-Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, sleeping/resting position
-Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, jumping over puddle/gap
-Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, laughing with friends pose
-Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, looking upward at tornado/flying house
-Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, sad/worried expression, hugging self
-Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, victory pose after defeating witch
-Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, clicking heels together
-Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, offering handshake to new friend
-Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, defensive stance protecting friends
-Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, examining ruby slippers/red boots
-Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, waving goodbye
-Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, close-up of determined expression, ready for adventure
-Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, with Toto is a small mostly black Cairn Terrie, standing with arms crossed 
-Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, with Toto is a small mostly black Cairn Terrie, Toto is a small black Cairn Terrier with shaggy fur, walking confidently with basket in hand with Toto
-Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, with Toto is a small mostly black Cairn Terrie, looking over shoulder with curious expression
-Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, with Toto is a small mostly black Cairn Terrie, crouching next to her pet Toto
-Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, with Toto is a small mostly black Cairn Terrie, pointing toward the horizon/yellow brick road
-Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, with Toto is a small mostly black Cairn Terrie, hands on hips
-Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, with Toto is a small mostly black Cairn Terrie, skipping joyfully
-Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, with Toto is a small mostly black Cairn Terrie, sitting on fence/log, contemplative
-Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, with Toto is a small mostly black Cairn Terrie, shielding eyes, looking into distance
-Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, with Toto is a small mostly black Cairn Terrie, twirling dress in spin
-Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, with Toto is a small mostly black Cairn Terrie, climbing over fallen tree/obstacle
-Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, with Toto is a small mostly black Cairn Terrie, offering apple/food to companion
-Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, with Toto is a small mostly black Cairn Terrie, reading map/directions, confused
-Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, with Toto is a small mostly black Cairn Terrie, surprised reaction pose, hands to face
-Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, with Toto is a small mostly black Cairn Terrie, dancing with arms outstretched
-Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, with Toto is a small mostly black Cairn Terrie, confrontational stance facing witch/antagonist
-Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, with Toto is a small mostly black Cairn Terrie, hiding/peeking from behind tree/wall
-Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, with Toto is a small mostly black Cairn Terrie, helping friend up from ground
-Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, with Toto is a small mostly black Cairn Terrie, examining magical object curiously
-Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, with Toto is a small mostly black Cairn Terrie, running pose, mid-stride
-Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, with Toto is a small mostly black Cairn Terrie, picking wildflowers/poppies
-Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, with Toto is a small mostly black Cairn Terrie, sleeping/resting position
-Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, with Toto is a small mostly black Cairn Terrie, jumping over puddle/gap
-Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, with Toto is a small mostly black Cairn Terrie, laughing with friends pose
-Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, with Toto is a small mostly black Cairn Terrie, looking upward at tornado/flying house
-Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, with Toto is a small mostly black Cairn Terrie, sad/worried expression, hugging self
-Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, with Toto is a small mostly black Cairn Terrie, victory pose after defeating witch
-Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, with Toto is a small mostly black Cairn Terrie, clicking heels together
-Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, with Toto is a small mostly black Cairn Terrie, offering handshake to new friend
-Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, with Toto is a small mostly black Cairn Terrie, defensive stance protecting friends
-Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, with Toto is a small mostly black Cairn Terrie, examining ruby slippers/red boots
-Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, with Toto is a small mostly black Cairn Terrie, waving goodbye
-Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, with Toto is a small mostly black Cairn Terrie, close-up of determined expression, ready for adventure
+
+Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish supermodel, from Kansas, with dark hair in braids and wearing a blue-and-white sleeveless gingham dress, mehndi design on her left hand, striking hazel eyes, red leather TimberLand Boots      
+       
+Toto is a small black Cairn Terrier with shaggy fur, bright eyes      
+       
+Toto is a small black Cairn Terrier with shaggy fur, bright eyes, and a size compact enough to fit in Dorothy's basket      
+       
+       
+## Character Sheet Prompts Dorothy:      
+       
+Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, standing with arms crossed       
+Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, Toto is a small black Cairn Terrier with shaggy fur, walking confidently with basket in hand with Toto      
+Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, looking over shoulder with curious expression      
+Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, crouching next to her pet Toto      
+Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, pointing toward the horizon/yellow brick road      
+Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, hands on hips      
+Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, skipping joyfully      
+Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, sitting on fence/log, contemplative      
+Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, shielding eyes, looking into distance      
+Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, twirling dress in spin      
+Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, climbing over fallen tree/obstacle      
+Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, offering apple/food to companion      
+Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, reading map/directions, confused      
+Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, surprised reaction pose, hands to face      
+Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, dancing with arms outstretched      
+Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, confrontational stance facing witch/antagonist      
+Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, hiding/peeking from behind tree/wall      
+Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, helping friend up from ground      
+Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, examining magical object curiously      
+Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, running pose, mid-stride      
+Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, picking wildflowers/poppies      
+Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, sleeping/resting position      
+Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, jumping over puddle/gap      
+Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, laughing with friends pose      
+Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, looking upward at tornado/flying house      
+Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, sad/worried expression, hugging self      
+Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, victory pose after defeating witch      
+Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, clicking heels together      
+Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, offering handshake to new friend      
+Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, defensive stance protecting friends      
+Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, examining ruby slippers/red boots      
+Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, waving goodbye      
+Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, close-up of determined expression, ready for adventure      
+Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, with Toto is a small mostly black Cairn Terrier, standing with arms crossed       
+Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, with Toto is a small mostly black Cairn Terrier, Toto is a small black Cairn Terrier with shaggy fur, walking confidently with basket in hand with Toto      
+Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, with Toto is a small mostly black Cairn Terrier, looking over shoulder with curious expression      
+Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, with Toto is a small mostly black Cairn Terrier, crouching next to her pet Toto      
+Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, with Toto is a small mostly black Cairn Terrier, pointing toward the horizon/yellow brick road      
+Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, with Toto is a small mostly black Cairn Terrier, hands on hips      
+Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, with Toto is a small mostly black Cairn Terrier, skipping joyfully      
+Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, with Toto is a small mostly black Cairn Terrier, sitting on fence/log, contemplative      
+Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, with Toto is a small mostly black Cairn Terrier, shielding eyes, looking into distance      
+Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, with Toto is a small mostly black Cairn Terrier, twirling dress in spin      
+Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, with Toto is a small mostly black Cairn Terrier, climbing over fallen tree/obstacle      
+Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, with Toto is a small mostly black Cairn Terrier, offering apple/food to companion      
+Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, with Toto is a small mostly black Cairn Terrier, reading map/directions, confused      
+Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, with Toto is a small mostly black Cairn Terrier, surprised reaction pose, hands to face      
+Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, with Toto is a small mostly black Cairn Terrier, dancing with arms outstretched      
+Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, with Toto is a small mostly black Cairn Terrier, confrontational stance facing witch/antagonist      
+Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, with Toto is a small mostly black Cairn Terrier, hiding/peeking from behind tree/wall      
+Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, with Toto is a small mostly black Cairn Terrier, helping friend up from ground      
+Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, with Toto is a small mostly black Cairn Terrier, examining magical object curiously      
+Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, with Toto is a small mostly black Cairn Terrier, running pose, mid-stride      
+Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, with Toto is a small mostly black Cairn Terrier, picking wildflowers/poppies      
+Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, with Toto is a small mostly black Cairn Terrier, sleeping/resting position      
+Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, with Toto is a small mostly black Cairn Terrier, jumping over puddle/gap      
+Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, with Toto is a small mostly black Cairn Terrier, laughing with friends pose      
+Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, with Toto is a small mostly black Cairn Terrier, looking upward at tornado/flying house      
+Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, with Toto is a small mostly black Cairn Terrier, sad/worried expression, hugging self      
+Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, with Toto is a small mostly black Cairn Terrier, victory pose after defeating witch      
+Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, with Toto is a small mostly black Cairn Terrier, clicking heels together      
+Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, with Toto is a small mostly black Cairn Terrier, offering handshake to new friend      
+Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, with Toto is a small mostly black Cairn Terrier, defensive stance protecting friends      
+Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, with Toto is a small mostly black Cairn Terrier, examining ruby slippers/red boots      
+Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, with Toto is a small mostly black Cairn Terrier, waving goodbye      
+Dorothy Gale is stunningly beautiful 27-year-old Bengali and Swedish woman, with Toto is a small mostly black Cairn Terrier, close-up of determined expression, ready for adventure        
  
 # Chapter_I_The_Cyclone.md
  
@@ -510,5 +511,6 @@ But she's got Toto, her little friend,
 In a world turned gray, love will always bend.
 When the winds start to howl, and the skies turn dark,
 She holds on tight, keeps faith in her heart.
+
 
 
